@@ -2,7 +2,6 @@
      В массиве найти максимальный элемент с четным индексом */ 
 
 #include <iostream> //Подключение библиотеки ввода-вывода.
-#include <stdlib.h> //Подключение библиотеки для функции max/min.
 using namespace std;
 
 int main(void)
