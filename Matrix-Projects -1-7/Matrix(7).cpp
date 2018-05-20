@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @MaximKaratun
-Sign out
-0
-0 0 VeronikaPetrenko/work_with_matrix
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-work_with_matrix/main7.cpp
-4ee751e  9 days ago
-@VeronikaPetrenko VeronikaPetrenko Update main7.cpp
-     
-44 lines (43 sloc)  1.35 KB
 //Дана квадратная матртца размером n,нужно поменять местами её главную и побочную диагонали.
 #include <iostream>
 #include <cstdlib>
@@ -58,16 +41,3 @@ int main(){
 	cout<<endl;
 	}
 }
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
